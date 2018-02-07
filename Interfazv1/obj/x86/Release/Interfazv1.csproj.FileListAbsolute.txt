@@ -1,0 +1,42 @@
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\bin\Release\Interfazv1.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\bin\Release\Interfazv1.pdb
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.Ayuda.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.DentroJuego.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.Form1.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.Properties.Resources.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.Registro.resources
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.csproj.GenerateResource.Cache
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.exe
+C:\Users\Arnau\AppData\Local\Temporary Projects\Interfazv1\obj\x86\Release\Interfazv1.pdb
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\bin\Release\Interfazv1.exe
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\bin\Release\Interfazv1.pdb
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Ayuda.resources
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.DentroJuego.resources
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Form1.resources
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Properties.Resources.resources
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Registro.resources
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.csproj.GenerateResource.Cache
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.exe
+C:\Users\Arnau\Desktop\uni\2b\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.pdb
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Ayuda.resources
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.DentroJuego.resources
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Form1.resources
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Properties.Resources.resources
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Registro.resources
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.csproj.GenerateResource.Cache
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.exe
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\bin\Release\Interfazv1.exe
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\bin\Release\Interfazv1.pdb
+C:\Users\natalia.natalia\Desktop\so\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.pdb
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\bin\Release\Interfazv1.exe
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\bin\Release\Interfazv1.pdb
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Ayuda.resources
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Form1.resources
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Properties.Resources.resources
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Registro.resources
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.csproj.GenerateResource.Cache
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.exe
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.pdb
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.Form2.resources
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.PingPong.resources
+C:\Users\Arnau\Desktop\SO\Proyectov1\Interfazv1\Interfazv1\obj\x86\Release\Interfazv1.SolicitudChat.resources
